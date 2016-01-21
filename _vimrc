@@ -11,5 +11,3 @@ set expandtab
 let g:netrw_liststyle=3
 
 set list
-
-set listchars=...
